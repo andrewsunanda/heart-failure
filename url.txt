@@ -1,0 +1,2 @@
+URL Deployment Model GC3 Andrew Sunanda di Huggingface:
+https://huggingface.co/spaces/andrewsunanda/p1-ftds018-rmt-g3-andrewsunanda
